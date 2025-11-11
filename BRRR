@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Gemini</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #1a73e8;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .card {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1a73e8;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site Gemini</h1>
+        <p>Exemplo de site recriado em HTML</p>
+    </header>
+
+    <section>
+        <div class="card">
+            <h2>Título do Card</h2>
+            <p>Descrição ou conteúdo que estava no Gemini.</p>
+            <img src="URL_DA_IMAGEM_AQUI" alt="Imagem">
+        </div>
+
+        <div class="card">
+            <h2>Outro Card</h2>
+            <p>Mais conteúdo do seu site Gemini.</p>
+        </div>
+    </section>
+
+    <footer>
+        © 2025 Meu Site Gemini
+    </footer>
+</body>
+</html>
